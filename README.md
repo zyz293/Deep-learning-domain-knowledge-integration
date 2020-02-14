@@ -20,8 +20,8 @@ h5py 2.9.0;
 
 
 ## How to run it
-1. To run SDM_MURI_homogenization.py: use commend 'python SDM_MURI_homogenization.py'. The script will train the CNN and save your CNN.
-2. To run SDM_NIST_olddata.py: use commend 'python SDM_NIST_olddata.py'. The script will train the CNN and save your CNN.
+1. To run homogenization.py: use commend 'python homogenization.py'. The script will train the CNN and save your CNN.
+2. To run crystalPlasticity.py: use commend 'python crystalPlasticity.py'. The script will train the CNN and save your CNN.
 
 
 ## Acknowledgement
